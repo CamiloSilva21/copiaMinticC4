@@ -66,5 +66,5 @@ app.listen(port, () => {
     console.log(`APP listening on port ${port}`)
   })  
 
-
+export default App;
 
